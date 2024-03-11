@@ -4,6 +4,10 @@
 
 45645646456 - 두번쨰
 
+<<<<<<< HEAD
 
 
 https://github.com/gonecj/push0311.git
+=======
+3번째는 github에서 직접 수정한다.
+>>>>>>> d4b654244690924138072cc7b1f4b9a3cdc14dc7
